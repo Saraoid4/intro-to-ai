@@ -14,4 +14,3 @@ Bienvenue dans le cours **Introduction à l'IA** ! Ce repository centralise tout
 - **Notebooks** : Exercices pratiques sous forme de notebooks Jupyter dans le répertoire `notebooks`.
 - **TP/TD** : Énoncés et consignes pour les travaux pratiques dans le répertoire `labs`.
 - **Quiz** : Quiz interactifs pour tester votre compréhension des sujets abordés.
-# intro-to-ai
