@@ -21,9 +21,9 @@ Bienvenue dans le cours **Introduction à l'Intelligence Artificielle**. Ce repo
 À l'issue de ce cours, vous serez en mesure de :
 
 1. Assimiler les concepts fondamentaux de l'intelligence artificielle et du machine learning.
-2. Implémenter des algorithmes de base pour résoudre des problèmes de classification et de régression.
-3. Utiliser des outils tels que Python, NumPy, pandas, scikit-learn, **PyTorch** et **Google Colab** pour développer des modèles d'IA.
-4. Analyser et évaluer les performances des modèles à l'aide de techniques telles que la validation croisée.
+2. Implémenter des algorithmes de base pour résoudre des problèmes en biomédical. 
+3. Utiliser des outils tels scikit-learn, **PyTorch** pour développer des modèles d'IA.
+4. Analyser et évaluer les performances des modèles.
 
 ---
 
@@ -38,16 +38,16 @@ Bienvenue dans le cours **Introduction à l'Intelligence Artificielle**. Ce repo
 
 ### Prérequis techniques :
 - Python 3.x
-- Jupyter Notebook ou JupyterLab
+- Jupyter Notebook, Spyder, ou Pycharm
 - Librairies Python : `numpy`, `pandas`, `matplotlib`, `scikit-learn`, **PyTorch**, etc.
 
 ---
 
 ## 🔗 Liens Utiles
 
-Une sélection de ressources en ligne pour compléter votre apprentissage est disponible dans le répertoire `resources`, incluant des pages essentielles pour approfondir les aspects mathématiques liés à l'intelligence artificielle :
+Une sélection de ressources en ligne pour compléter votre apprentissage sera disponible dans le répertoire `resources`, incluant des pages essentielles pour approfondir les aspects mathématiques liés à l'intelligence artificielle :
 
-- **[The Math of Deep Learning – Stanford University](https://cs231n.github.io/machine-learning-optimization/)**  
+- **[The Math of Deep Learning – Stanford University](https://cs230.stanford.edu)**  
   Cours dispensé à Stanford, qui présente les bases mathématiques sous-jacentes aux modèles de deep learning, en mettant un accent particulier sur l'optimisation et l'algèbre linéaire.
 
 - **[3Blue1Brown - YouTube Channel](https://www.youtube.com/c/3blue1brown)**  
