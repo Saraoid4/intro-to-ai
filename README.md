@@ -40,12 +40,21 @@ Bienvenue dans le cours **Introduction à l'Intelligence Artificielle**. Ce repo
 - Python 3.x
 - Jupyter Notebook, Spyder, ou Pycharm
 - Librairies Python : `numpy`, `pandas`, `matplotlib`, `scikit-learn`, **PyTorch**, etc.
+### Installation de Python selon vot
+re système d'exploitation :
 
+- **Windows** : [Guide officiel d'installation de Python sur Windows](https://docs.python.org/fr/3/using/windows.html)  
+- **Mac** : [Guide officiel d'installation de Python sur macOS](https://docs.python.org/fr/3/using/mac.html)  
+- **Ubuntu/Linux** : [Guide d'installation de Python sur Linux](https://docs.python.org/fr/3/using/unix.html)  
 ---
 
 ## 🔗 Liens Utiles
 
 Une sélection de ressources en ligne pour compléter votre apprentissage sera disponible dans le répertoire `resources`, incluant des pages essentielles pour approfondir les aspects mathématiques liés à l'intelligence artificielle :
+
+- **[Cours Python](https://courspython.com)**  
+  Ressource complète pour apprendre et approfondir ses connaissances en Python, incluant des tutoriels, des exercices et des explications sur divers concepts liés à la programmation et à l'IA.
+
 
 - **[The Math of Deep Learning – Stanford University](https://cs230.stanford.edu)**  
   Cours dispensé à Stanford, qui présente les bases mathématiques sous-jacentes aux modèles de deep learning, en mettant un accent particulier sur l'optimisation et l'algèbre linéaire.
